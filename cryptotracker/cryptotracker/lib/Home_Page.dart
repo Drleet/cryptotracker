@@ -86,7 +86,7 @@ class _HomePageState extends State<HomePage> {
                           borderRadius: BorderRadius.circular(10),
                           color: Color.fromARGB(214, 104, 58, 183),
                         ),
-                        width: 60,
+                        width: 70,
                       ),
                     ),
                   ],
